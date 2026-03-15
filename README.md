@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **arjuns238/arjuns238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+AI/ML engineer, and builder exploring the frontier of AI systems.
+
+I work on machine learning, AI infrastructure, and applied research. My interests sit at the intersection of modeling, large-scale ML systems, and intelligent agents that learn from real interactions.
+
+Previously I’ve built fraud detection systems that block ~6M fraudulent users per month and save ~$2M annually, and I’m increasingly focused on LLM systems, AI memory architectures, and adaptive learning systems. I have also worked on healthcare AI research, developing deep learning models for melanoma detection that resulted in a published research paper and journal article.
+
+Outside of code, I was a Division I tennis player, team captain, and MVP, and I still spend a lot of time on the court or playing guitar.
