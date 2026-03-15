@@ -1,24 +1,17 @@
 ## Hi there
 
-<!--
-**arjuns238/arjuns238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior ML Engineer shipping production AI systems.
 
-Here are some ideas to get you started:
+I've built fraud detection infrastructure at AT&T that blocks 
+~6M fraudulent users/month and saves ~$2M annually. Before 
+that, I spent two years doing healthcare AI research
+developing WGAN-based augmentation for melanoma detection that 
+lifted classifier recall from 0.50 → 0.91, published across 
+6 IEEE papers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm focused on LLM systems, RAG pipelines, and 
+agent architectures — particularly how you build AI that's 
+actually reliable in production, not just impressive in demos.
 
-AI/ML engineer, and builder exploring the frontier of AI systems.
-
-I work on machine learning, AI infrastructure, and applied research. My interests sit at the intersection of modeling, large-scale ML systems, and intelligent agents that learn from real interactions.
-
-Previously I’ve built fraud detection systems that block ~6M fraudulent users per month and save ~$2M annually, and I’m increasingly focused on LLM systems, AI memory architectures, and adaptive learning systems. I have also worked on healthcare AI research, developing deep learning models for melanoma detection that resulted in a published research paper and journal article.
-
-Outside of code, I was a Division I tennis player, team captain, and MVP, and I still spend a lot of time on the court or playing guitar.
+Prev: D1 tennis — team captain, MVP. Still on the court 
+most weekends.
