@@ -13,5 +13,5 @@ Right now I'm focused on LLM systems, RAG pipelines, and
 agent architectures — particularly how you build AI that's 
 actually reliable in production, not just impressive in demos.
 
-Prev: D1 tennis — team captain, MVP. Still on the court 
-most weekends.
+Prev: D1 tennis - team captain, MVP. Still on the court 
+most weekends :D
