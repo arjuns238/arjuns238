@@ -10,7 +10,6 @@ lifted classifier recall from 0.50 → 0.91, published across
 6 IEEE papers.
 
 Right now I'm focused on LLM systems, RAG pipelines, and 
-agent architectures, particularly how you build AI that's 
-actually reliable
+agent architectures, particularly how you build reliable AI
 
 Prev: D1 tennis - team captain, MVP.
