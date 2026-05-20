@@ -1,4 +1,4 @@
-## Hi there
+## Hi
 
 Senior ML Engineer shipping production AI systems.
 
