@@ -2,7 +2,7 @@
 
 Senior ML Engineer shipping production AI systems.
 
-I've built fraud detection infrastructure at AT&T that blocks 
+I've built a fully autonomous fraud detection system that blocks 
 ~6M fraudulent users/month and saves ~$2M annually. Before 
 that, I spent two years doing healthcare AI research
 developing WGAN-based augmentation for melanoma detection that 
