@@ -9,7 +9,6 @@ developing WGAN-based augmentation for melanoma detection that
 lifted classifier recall from 0.50 → 0.91, published across 
 6 IEEE papers.
 
-Right now I'm focused on LLM systems, RAG pipelines, and 
-agent architectures, particularly how you build reliable AI
+Right now I'm focussed on AI safety. I am particularly interested in mechanistic interpretability and model organisms.
 
 Prev: D1 tennis - team captain, MVP.
